@@ -1,0 +1,350 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал" tvg-language="Russian" group-title="01. Федеральные и московские",Первый канал
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал HD" tvg-language="Russian" group-title="01. Федеральные и московские",Первый канал HD
+https://live-okkotv.cdnvideo.ru/okkotv/1tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1" tvg-language="Russian" group-title="01. Федеральные и московские",Россия 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1 HD" tvg-language="Russian" group-title="01. Федеральные и московские",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-language="Russian" group-title="01. Федеральные и московские",Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-name="Россия Культура HD" tvg-language="Russian" group-title="01. Федеральные и московские",Россия Культура HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-language="Russian" group-title="01. Федеральные и московские",НТВ
+http://ott-cdn.ucom.am/s17/index.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ HD" tvg-language="Russian" group-title="01. Федеральные и московские",НТВ HD
+https://cdn.ntv.ru/ntv0/playlist.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал" tvg-language="Russian" group-title="01. Федеральные и московские",Пятый канал
+https://streaming.televizor-24-tochka.ru/live/8.m3u8
+#EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВ Центр" tvg-language="Russian" group-title="01. Федеральные и московские",ТВ Центр
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="otr" tvg-name="ОТР" tvg-language="Russian" group-title="01. Федеральные и московские",ОТР
+https://streaming.televizor-24-tochka.ru/live/12.m3u8
+#EXTINF:-1 tvg-id="rentv" tvg-name="РЕН ТВ" tvg-language="Russian" group-title="01. Федеральные и московские",РЕН ТВ
+https://streaming.televizor-24-tochka.ru/live/14.m3u8
+#EXTINF:-1 tvg-id="rentv" tvg-name="РЕН ТВ HD" tvg-language="Russian" group-title="01. Федеральные и московские",РЕН ТВ HD
+http://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
+#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда HD" tvg-language="Russian" group-title="01. Федеральные и московские",Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="mir" tvg-name="МИР HD" tvg-language="Russian" group-title="01. Федеральные и московские",МИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-language="Russian" group-title="01. Федеральные и московские",СТС
+https://fs.uplink.kz/sts/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="sts" tvg-name="СТС HD" tvg-language="Russian" group-title="01. Федеральные и московские",СТС HD
+http://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
+#EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" tvg-language="Russian" group-title="01. Федеральные и московские",ТНТ
+http://ott-cdn.ucom.am/s19/index.m3u8
+#EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ HD" tvg-language="Russian" group-title="01. Федеральные и московские",ТНТ HD
+https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD.m3u8
+#EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4" tvg-language="Russian" group-title="01. Федеральные и московские",ТНТ4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 tvg-id="sts-love" tvg-name="СТС Love" tvg-language="Russian" group-title="01. Федеральные и московские",СТС Love
+http://tv.streams.baikal-telecom.net:8080/CTC_LOVE/index.m3u8
+#EXTINF:-1 tvg-id="domashny" tvg-name="Домашний" tvg-language="Russian" group-title="01. Федеральные и московские",Домашний
+http://ott-cdn.ucom.am/s88/index.m3u8
+#EXTINF:-1 tvg-id="domashny" tvg-name="Домашний HD" tvg-language="Russian" group-title="01. Федеральные и московские",Домашний HD
+http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
+#EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница!" tvg-language="Russian" group-title="01. Федеральные и московские",Пятница!
+https://streaming.televizor-24-tochka.ru/live/19.m3u8
+#EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница! HD" tvg-language="Russian" group-title="01. Федеральные и московские",Пятница! HD
+http://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD.m3u8
+#EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ-3" tvg-language="Russian" group-title="01. Федеральные и московские",ТВ-3
+https://streaming.televizor-24-tochka.ru/live/18.m3u8
+#EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ-3 HD" tvg-language="Russian" group-title="01. Федеральные и московские",ТВ-3 HD
+http://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD.m3u8
+#EXTINF:-1 tvg-id="che" tvg-name="Че!" tvg-language="Russian" group-title="01. Федеральные и московские",Че!
+http://flussonic.linkintel.ru/che/index.m3u8
+#EXTINF:-1 tvg-id="super" tvg-name="Суббота!" tvg-language="Russian" group-title="01. Федеральные и московские",Суббота!
+http://hls2.hd-tv.club/2_super/index.m3u8
+#EXTINF:-1 tvg-id="2na2" tvg-name="2x2" tvg-language="Russian" group-title="01. Федеральные и московские",2x2
+http://178.217.72.66:8080/2x2/index.m3u8
+#EXTINF:-1 tvg-id="karusel" tvg-name="Карусель" tvg-language="Russian" group-title="01. Федеральные и московские",Карусель
+https://streaming102.interskytech.com/live/232.m3u8
+#EXTINF:-1 tvg-id="solnce" tvg-name="Солнце" tvg-language="Russian" group-title="01. Федеральные и московские",Солнце
+https://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:-1 tvg-name="Москва 24" tvg-language="Russian" group-title="01. Федеральные и московские",Москва 24
+https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
+#EXTINF:-1 tvg-name="Москва. Доверие" tvg-language="Russian" group-title="01. Федеральные и московские",Москва. Доверие
+https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
+#EXTINF:-1 tvg-name="МИР 24" tvg-language="Russian" group-title="01. Федеральные и московские",МИР 24
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="РБК" tvg-language="Russian" group-title="01. Федеральные и московские",РБК
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1 tvg-name="Известия" tvg-language="Russian" group-title="01. Федеральные и московские",Известия
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 tvg-id="spas" tvg-name="Спас" tvg-language="Russian" group-title="01. Федеральные и московские",Спас
+https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
+#EXTINF:-1 tvg-name="ТНВ Татарстан" tvg-language="Russian" group-title="01. Федеральные и московские",ТНВ Татарстан
+http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
+#EXTINF:-1 tvg-name="360° Новости HD" tvg-language="Russian" group-title="01. Федеральные и московские",360° Новости HD
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ" tvg-language="Russian" group-title="02. Спорт — футбол в приоритете",Матч ТВ
+https://streaming.televizor-24-tochka.ru/live/6.m3u8
+#EXTINF:-1 tvg-id="match-tv" tvg-name="Матч ТВ HD" tvg-language="Russian" group-title="02. Спорт — футбол в приоритете",Матч ТВ HD
+http://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
+#EXTINF:-1 tvg-name="Матч Премьер" tvg-language="Russian" group-title="02. Спорт — футбол в приоритете",Матч Премьер
+http://178.212.71.253:8000/play/57/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 1 HD" tvg-language="Russian" group-title="02. Спорт — футбол в приоритете",Матч! Футбол 1 HD
+http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2 HD" tvg-language="Russian" group-title="02. Спорт — футбол в приоритете",Матч! Футбол 2 HD
+http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3 HD" tvg-language="Russian" group-title="02. Спорт — футбол в приоритете",Матч! Футбол 3 HD
+http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
+#EXTINF:-1 tvg-name="Футбол" tvg-language="Russian" group-title="02. Спорт — футбол в приоритете",Футбол
+http://178.217.72.66:8080/telefootbol/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Матч! Страна" tvg-language="Russian" group-title="02. Спорт — футбол в приоритете",Матч! Страна
+http://77.235.1.19:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Планета" tvg-language="Russian" group-title="02. Спорт — футбол в приоритете",Матч! Планета
+https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="Старт Триумф" tvg-language="Russian" group-title="02. Спорт — футбол в приоритете",Старт Триумф
+http://77.235.1.19:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Арена HD" tvg-language="Russian" group-title="02. Спорт — футбол в приоритете",Матч! Арена HD
+http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
+#EXTINF:-1 tvg-name="Матч! Игра HD" tvg-language="Russian" group-title="02. Спорт — футбол в приоритете",Матч! Игра HD
+http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
+#EXTINF:-1 tvg-name="Матч! Боец" tvg-language="Russian" group-title="02. Спорт — футбол в приоритете",Матч! Боец
+http://77.235.1.19:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport 1" tvg-language="Russian" group-title="02. Спорт — футбол в приоритете",Eurosport 1
+http://178.217.72.66:8080/Eurosport_HD/video.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2" tvg-language="Russian" group-title="02. Спорт — футбол в приоритете",Eurosport 2
+http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
+#EXTINF:-1 tvg-id="kxl-hd" tvg-name="KHL Prime" tvg-language="Russian" group-title="02. Спорт — футбол в приоритете",KHL Prime
+http://194.143.148.28:8080/KHL_HD/mpegts
+#EXTINF:-1 tvg-name="В мире животных HD" tvg-language="Russian" group-title="03. Природа, животные, наука",В мире животных HD
+http://86.57.209.210/AnimalFamily/index.m3u8
+#EXTINF:-1 tvg-name="Живая планета" tvg-language="Russian" group-title="03. Природа, животные, наука",Живая планета
+https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Зоо ТВ" tvg-language="Russian" group-title="03. Природа, животные, наука",Зоо ТВ
+http://31.148.48.15/Zoo_TV/index.m3u8
+#EXTINF:-1 tvg-name="Зоопарк HD" tvg-language="Russian" group-title="03. Природа, животные, наука",Зоопарк HD
+http://89.221.57.5:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-name="Домашние животные" tvg-language="Russian" group-title="03. Природа, животные, наука",Домашние животные
+http://178.217.72.66:8080/Domashnie_Zhivotnye/index.m3u8
+#EXTINF:-1 tvg-name="Animal Planet HD" tvg-language="Russian" group-title="03. Природа, животные, наука",Animal Planet HD
+http://45.159.74.22/AnimalPlanet/mono.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.ru@SD" tvg-name="Animal Planet" tvg-language="Russian" group-title="03. Природа, животные, наука",Animal Planet
+http://178.217.72.66:8080/Animal_Planet_HD/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.ru@SD" tvg-name="Animal Planet — резерв" tvg-language="Russian" group-title="03. Природа, животные, наука",Animal Planet — резерв
+http://stream.mcquack.net/114/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic" tvg-language="Russian" group-title="03. Природа, животные, наука",National Geographic
+https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="National Geographic HD" tvg-language="Russian" group-title="03. Природа, животные, наука",National Geographic HD
+http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.ru@SD" tvg-name="National Geographic — резерв 1" tvg-language="Russian" group-title="03. Природа, животные, наука",National Geographic — резерв 1
+http://stream.mcquack.net/116/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.ru@SD" tvg-name="National Geographic — резерв 2" tvg-language="Russian" group-title="03. Природа, животные, наука",National Geographic — резерв 2
+http://158.160.149.81:8080/43/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild HD" tvg-language="Russian" group-title="03. Природа, животные, наука",National Geographic Wild HD
+http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru@SD" tvg-name="National Geographic Wild — резерв" tvg-language="Russian" group-title="03. Природа, животные, наука",National Geographic Wild — резерв
+http://45.159.74.22/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild" tvg-language="Russian" group-title="03. Природа, животные, наука",National Geographic Wild
+https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="Viasat Nature" tvg-language="Russian" group-title="03. Природа, животные, наука",Viasat Nature
+http://87.246.54.249:8085/ViasatNature/index.m3u8
+#EXTINF:-1 tvg-name="viju Nature" tvg-language="Russian" group-title="03. Природа, животные, наука",viju Nature
+https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="Big Planet" tvg-language="Russian" group-title="03. Природа, животные, наука",Big Planet
+https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="Моя планета" tvg-language="Russian" group-title="03. Природа, животные, наука",Моя планета
+https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="Моя планета HD" tvg-language="Russian" group-title="03. Природа, животные, наука",Моя планета HD
+http://77.235.1.19:8000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-name="Большая Азия" tvg-language="Russian" group-title="03. Природа, животные, наука",Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="RTG HD" tvg-language="Russian" group-title="03. Природа, животные, наука",RTG HD
+http://77.235.1.19:8000/play/a05j/index.m3u8
+#EXTINF:-1 tvg-name="Discovery HD" tvg-language="Russian" group-title="03. Природа, животные, наука",Discovery HD
+http://178.217.72.66:8080/Discovery_HD/video.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.ru@SD" tvg-name="Discovery" tvg-language="Russian" group-title="03. Природа, животные, наука",Discovery
+http://45.159.74.22/DiscoveryChannel/mono.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.ru@SD" tvg-name="Discovery — резерв 1" tvg-language="Russian" group-title="03. Природа, животные, наука",Discovery — резерв 1
+http://stream.mcquack.net/177/index.m3u8
+#EXTINF:-1 tvg-name="History HD" tvg-language="Russian" group-title="03. Природа, животные, наука",History HD
+http://45.159.74.22/Channel_123/mono.m3u8
+#EXTINF:-1 tvg-name="Наука" tvg-language="Russian" group-title="03. Природа, животные, наука",Наука
+https://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 tvg-name="Нано ТВ HD" tvg-language="Russian" group-title="03. Природа, животные, наука",Нано ТВ HD
+http://178.217.72.66:8080/NANO_HD/index.m3u8
+#EXTINF:-1 tvg-name="Тайны Галактики HD" tvg-language="Russian" group-title="03. Природа, животные, наука",Тайны Галактики HD
+http://178.217.72.66:8080/galaxyhd/index.m3u8
+#EXTINF:-1 tvg-name="Первый космический HD" tvg-language="Russian" group-title="03. Природа, животные, наука",Первый космический HD
+http://45.159.74.22/Evrika/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="История" tvg-language="Russian" group-title="03. Природа, животные, наука",История
+http://178.217.72.66:8080/Istoriya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Неизвестная Россия HD" tvg-language="Russian" group-title="03. Природа, животные, наука",Неизвестная Россия HD
+https://cdn.ntv.ru/unknown_russia/playlist.m3u8
+#EXTINF:-1 tvg-name="Неизвестная планета HD" tvg-language="Russian" group-title="03. Природа, животные, наука",Неизвестная планета HD
+http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
+#EXTINF:-1 tvg-name="Океан" tvg-language="Russian" group-title="03. Природа, животные, наука",Океан
+http://45.11.139.43:8555/ocean/index.m3u8
+#EXTINF:-1 tvg-name="Терра Инкогнита HD" tvg-language="Russian" group-title="03. Природа, животные, наука",Терра Инкогнита HD
+http://178.124.153.123:44400/terra
+#EXTINF:-1 tvg-id="terra-ru" tvg-name="Terra HD" tvg-language="Russian" group-title="03. Природа, животные, наука",Terra HD
+http://77.235.1.19:8000/play/a07d/index.m3u8
+#EXTINF:-1 tvg-name="The Explorers HD" tvg-language="Russian" group-title="03. Природа, животные, наука",The Explorers HD
+http://77.235.1.19:8000/play/a058/index.m3u8
+#EXTINF:-1 tvg-name="viju History" tvg-language="Russian" group-title="03. Природа, животные, наука",viju History
+https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="viju Explore" tvg-language="Russian" group-title="03. Природа, животные, наука",viju Explore
+https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="TV BRICS HD" tvg-language="Russian" group-title="03. Природа, животные, наука",TV BRICS HD
+http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-name="Просвещение" tvg-language="Russian" group-title="03. Природа, животные, наука",Просвещение
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
+#EXTINF:-1 tvg-name="Da Vinci" tvg-language="Russian" group-title="03. Природа, животные, наука",Da Vinci
+http://178.217.72.66:8080/Da_Vinchi/index.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ru@SD" tvg-name="Investigation Discovery" tvg-language="Russian" group-title="03. Природа, животные, наука",Investigation Discovery
+http://stream.mcquack.net/205/index.m3u8
+#EXTINF:-1 tvg-id="Domkino.ru@SD" tvg-name="Дом кино" tvg-language="Russian" group-title="04. Кино и сериалы",Дом кино
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DomkinoPremium.ru@HD" tvg-name="Дом кино Премиум HD" tvg-language="Russian" group-title="04. Кино и сериалы",Дом кино Премиум HD
+https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="RusskiyRoman.ru@SD" tvg-name="Русский роман" tvg-language="Russian" group-title="04. Кино и сериалы",Русский роман
+http://77.235.1.19:8000/play/a08e/index.m3u8
+#EXTINF:-1 tvg-id="RusskiyRoman.ru@HD" tvg-name="Русский роман HD" tvg-language="Russian" group-title="04. Кино и сериалы",Русский роман HD
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1 tvg-id="RusskiyDetektiv.ru@SD" tvg-name="Русский детектив" tvg-language="Russian" group-title="04. Кино и сериалы",Русский детектив
+http://77.235.1.19:8000/play/a08f/index.m3u8
+#EXTINF:-1 tvg-id="RusskiyBestseller.ru@SD" tvg-name="Русский бестселлер" tvg-language="Russian" group-title="04. Кино и сериалы",Русский бестселлер
+http://178.217.72.66:8080/russkiy_bestseller/index.m3u8
+#EXTINF:-1 tvg-id="RusskiyIlluzion.ru@SD" tvg-name="Русский иллюзион" tvg-language="Russian" group-title="04. Кино и сериалы",Русский иллюзион
+https://cdn-cache01.voka.tv/live/616.m3u8
+#EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" tvg-name="Наше новое кино" tvg-language="Russian" group-title="04. Кино и сериалы",Наше новое кино
+https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NasheNovoeKino.ru@HD" tvg-name="Наше новое кино HD" tvg-language="Russian" group-title="04. Кино и сериалы",Наше новое кино HD
+http://87.246.54.249:8085/NasheKino/index.m3u8
+#EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-name="Родное кино" tvg-language="Russian" group-title="04. Кино и сериалы",Родное кино
+https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Muzhskoekino.ru@SD" tvg-name="Мужское кино" tvg-language="Russian" group-title="04. Кино и сериалы",Мужское кино
+https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Muzhskoekino.ru@HD" tvg-name="Мужское кино HD" tvg-language="Russian" group-title="04. Кино и сериалы",Мужское кино HD
+http://77.235.1.19:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-id="Kinosvidanie.ru@SD" tvg-name="Киносвидание" tvg-language="Russian" group-title="04. Кино и сериалы",Киносвидание
+https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" tvg-name="Мосфильм. Золотая коллекция" tvg-language="Russian" group-title="04. Кино и сериалы",Мосфильм. Золотая коллекция
+https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@HD" tvg-name="Мосфильм. Золотая коллекция HD" tvg-language="Russian" group-title="04. Кино и сериалы",Мосфильм. Золотая коллекция HD
+http://185.50.148.2:7706/Mosfilm/index.m3u8
+#EXTINF:-1 tvg-id="KinoTV.ru@SD" tvg-name="КИНОТВ" tvg-language="Russian" group-title="04. Кино и сериалы",КИНОТВ
+https://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 tvg-id="KinoTV.ru@HD" tvg-name="КИНОТВ HD" tvg-language="Russian" group-title="04. Кино и сериалы",КИНОТВ HD
+http://176.118.197.101/KinoTvHD/playlist.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000.ru@SD" tvg-name="viju TV1000" tvg-language="Russian" group-title="04. Кино и сериалы",viju TV1000
+https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="vijuTV1000.ru@HD" tvg-name="viju TV1000 HD" tvg-language="Russian" group-title="04. Кино и сериалы",viju TV1000 HD
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000action.ru@HD" tvg-name="viju TV1000 Action HD" tvg-language="Russian" group-title="04. Кино и сериалы",viju TV1000 Action HD
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru@SD" tvg-name="viju TV1000 Русское кино" tvg-language="Russian" group-title="04. Кино и сериалы",viju TV1000 Русское кино
+https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="IlluzionPlus.ru@SD" tvg-name="Иллюзион+" tvg-language="Russian" group-title="04. Кино и сериалы",Иллюзион+
+http://158.160.149.81:8080/88/index.m3u8
+#EXTINF:-1 tvg-id="IlluzionPlus.ru@HD" tvg-name="Иллюзион+ HD" tvg-language="Russian" group-title="04. Кино и сериалы",Иллюзион+ HD
+http://89.221.57.5:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="Kinoseriya.ru@SD" tvg-name="Киносерия" tvg-language="Russian" group-title="04. Кино и сериалы",Киносерия
+https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Kinoseriya.ru@HD" tvg-name="Киносерия HD" tvg-language="Russian" group-title="04. Кино и сериалы",Киносерия HD
+http://95.85.109.219:7000/play/a087
+#EXTINF:-1 tvg-id="Kinomix.ru@SD" tvg-name="Киномикс" tvg-language="Russian" group-title="04. Кино и сериалы",Киномикс
+https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Kinomix.ru@HD" tvg-name="Киномикс HD" tvg-language="Russian" group-title="04. Кино и сериалы",Киномикс HD
+http://77.235.1.19:8000/play/a05k/index.m3u8
+#EXTINF:-1 tvg-id="Kinouzhas.ru@SD" tvg-name="Киноужас" tvg-language="Russian" group-title="04. Кино и сериалы",Киноужас
+https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Kinouzhas.ru@HD" tvg-name="Киноужас HD" tvg-language="Russian" group-title="04. Кино и сериалы",Киноужас HD
+http://95.85.109.219:7000/play/a00y
+#EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" tvg-name="Индийское кино" tvg-language="Russian" group-title="04. Кино и сериалы",Индийское кино
+https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.ru@SD" tvg-name="Индия" tvg-language="Russian" group-title="04. Кино и сериалы",Индия
+http://158.101.222.193:88/georgia_play.php?id=zeetv
+#EXTINF:-1 tvg-id="Evrokino.ru@SD" tvg-name="Еврокино" tvg-language="Russian" group-title="04. Кино и сериалы",Еврокино
+https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Evrokino.ru@HD" tvg-name="Еврокино HD" tvg-language="Russian" group-title="04. Кино и сериалы",Еврокино HD
+http://stream.mcquack.net/385/index.m3u8
+#EXTINF:-1 tvg-id="STARTAir.ru@SD" tvg-name="START Air" tvg-language="Russian" group-title="04. Кино и сериалы",START Air
+http://176.118.197.101/START_AIR/index.m3u8
+#EXTINF:-1 tvg-id="STARTAir.ru@HD" tvg-name="START Air HD" tvg-language="Russian" group-title="04. Кино и сериалы",START Air HD
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:-1 tvg-id="STARTWorld.ru@SD" tvg-name="START World" tvg-language="Russian" group-title="04. Кино и сериалы",START World
+https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="STARTWorld.ru@HD" tvg-name="START World HD" tvg-language="Russian" group-title="04. Кино и сериалы",START World HD
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+#EXTINF:-1 tvg-id="KinoLiving.ru@SD" tvg-name="КиноЛивинг" tvg-language="Russian" group-title="04. Кино и сериалы",КиноЛивинг
+http://95.85.109.219:7000/play/a05x
+#EXTINF:-1 tvg-id="AmediaPremium.ru@SD" tvg-name="AMEDIA Premium" tvg-language="Russian" group-title="04. Кино и сериалы",AMEDIA Premium
+http://195.18.23.20:8000/play/3/index.m3u8
+#EXTINF:-1 tvg-id="AmediaPremium.ru@HD" tvg-name="AMEDIA Premium HD" tvg-language="Russian" group-title="04. Кино и сериалы",AMEDIA Premium HD
+https://cdn-cache01.voka.tv/live/511.m3u8
+#EXTINF:-1 tvg-id="AmediaHit.ru@SD" tvg-name="AMEDIA Hit" tvg-language="Russian" group-title="04. Кино и сериалы",AMEDIA Hit
+http://178.217.72.66:8080/Amedia_Hit/index.m3u8
+#EXTINF:-1 tvg-id="AmediaHit.ru@HD" tvg-name="AMEDIA Hit HD" tvg-language="Russian" group-title="04. Кино и сериалы",AMEDIA Hit HD
+https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="Amedia1.ru@SD" tvg-name="A1" tvg-language="Russian" group-title="04. Кино и сериалы",A1
+http://158.101.222.193:88/georgia_play.php?id=amedia
+#EXTINF:-1 tvg-id="Amedia1.ru@HD" tvg-name="A1 HD" tvg-language="Russian" group-title="04. Кино и сериалы",A1 HD
+https://cdn-cache01.voka.tv/live/1500.m3u8
+#EXTINF:-1 tvg-id="Amedia2.ru@SD" tvg-name="A2" tvg-language="Russian" group-title="04. Кино и сериалы",A2
+https://cdn-cache01.voka.tv/live/171.m3u8
+#EXTINF:-1 tvg-id="Amedia2.ru@HD" tvg-name="A2 HD" tvg-language="Russian" group-title="04. Кино и сериалы",A2 HD
+https://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="Pobeda.ru@SD" tvg-name="Победа" tvg-language="Russian" group-title="04. Кино и сериалы",Победа
+https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="Pobeda.ru@HD" tvg-name="Победа — резерв" tvg-language="Russian" group-title="04. Кино и сериалы",Победа — резерв
+#EXTVLCOPT:http-referrer=https://pobeda.tv/
+https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b5128000_slru.m3u8
+#EXTINF:-1 tvg-id="NTVHit.ru@SD" tvg-name="НТВ Хит" tvg-language="Russian" group-title="04. Кино и сериалы",НТВ Хит
+https://cdn.ntv.ru/th_hit/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVSeries.ru@SD" tvg-name="НТВ Сериал" tvg-language="Russian" group-title="04. Кино и сериалы",НТВ Сериал
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVLaw.ru@SD" tvg-name="НТВ Право" tvg-language="Russian" group-title="04. Кино и сериалы",НТВ Право
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVStyle.ru@SD" tvg-name="НТВ Стиль" tvg-language="Russian" group-title="04. Кино и сериалы",НТВ Стиль
+https://cdn.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1 tvg-id="SmotrimMelodramy.ru@SD" tvg-name="Смотрим: Мелодрамы" tvg-language="Russian" group-title="04. Кино и сериалы",Смотрим: Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SmotrimDetektiv.ru@SD" tvg-name="Смотрим: Честный детектив" tvg-language="Russian" group-title="04. Кино и сериалы",Смотрим: Честный детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SmotrimTayny.ru@SD" tvg-name="Смотрим: Тайны" tvg-language="Russian" group-title="04. Кино и сериалы",Смотрим: Тайны
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VelvetSovetskoeKino.ru@HD" tvg-name="Советское кино — Velvet HD" tvg-language="Russian" group-title="04. Кино и сериалы",Советское кино — Velvet HD
+https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
+#EXTINF:-1 tvg-id="VelvetGoldenCollection.ru@HD" tvg-name="Золотая коллекция — Velvet HD" tvg-language="Russian" group-title="04. Кино и сериалы",Золотая коллекция — Velvet HD
+https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
+#EXTINF:-1 tvg-id="VelvetMentovskiyeSerialy.ru@HD" tvg-name="Ментовские сериалы — Velvet HD" tvg-language="Russian" group-title="04. Кино и сериалы",Ментовские сериалы — Velvet HD
+https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
+#EXTINF:-1 tvg-id="VelvetSeriesHits.ru@HD" tvg-name="Хиты сериалов — Velvet HD" tvg-language="Russian" group-title="04. Кино и сериалы",Хиты сериалов — Velvet HD
+https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
+#EXTINF:-1 tvg-id="VelvetSvaty.ru@HD" tvg-name="Сваты — Velvet HD" tvg-language="Russian" group-title="04. Кино и сериалы",Сваты — Velvet HD
+https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
+#EXTINF:-1 tvg-id="NashKinopokaz.ru@HD" tvg-name="Наш кинопоказ HD" tvg-language="Russian" group-title="04. Кино и сериалы",Наш кинопоказ HD
+http://178.217.72.66:8080/nashkinopokazhd/index.m3u8
+#EXTINF:-1 tvg-id="NasheKrutoe.ru@HD" tvg-name="Наше крутое HD" tvg-language="Russian" group-title="04. Кино и сериалы",Наше крутое HD
+http://178.217.72.66:8080/nashekrutoe/index.m3u8
+#EXTINF:-1 tvg-id="Kinokomedija.ru@SD" tvg-name="Кинокомедия" tvg-language="Russian" group-title="04. Кино и сериалы",Кинокомедия
+https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="KinoHit.ru@SD" tvg-name="Кинохит" tvg-language="Russian" group-title="04. Кино и сериалы",Кинохит
+https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Kinopokaz.ru@SD" tvg-name="Кинопоказ" tvg-language="Russian" group-title="04. Кино и сериалы",Кинопоказ
+https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Kinopremyera.ru@HD" tvg-name="Кинопремьера HD" tvg-language="Russian" group-title="04. Кино и сериалы",Кинопремьера HD
+https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Kinosemja.ru@SD" tvg-name="Киносемья" tvg-language="Russian" group-title="04. Кино и сериалы",Киносемья
+https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Kino24.ru@SD" tvg-name="Кино 24" tvg-language="Russian" group-title="04. Кино и сериалы",Кино 24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 tvg-id="Cinema.ru@SD" tvg-name="Cinema" tvg-language="Russian" group-title="04. Кино и сериалы",Cinema
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="StarCinema.ru@SD" tvg-name="Star Cinema" tvg-language="Russian" group-title="04. Кино и сериалы",Star Cinema
+https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="MirSeriala.ru@SD" tvg-name="Мир сериала" tvg-language="Russian" group-title="04. Кино и сериалы",Мир сериала
+https://tbs01-edge11.itdc.ge/mirseriala/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RedLine.ru@SD" tvg-name="Красная линия" tvg-language="Russian" group-title="04. Кино и сериалы",Красная линия
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+#EXTINF:-1 tvg-id="Vremya.ru@SD" tvg-name="Время" tvg-language="Russian" group-title="04. Кино и сериалы",Время
+https://fs.uplink.kz/vremya/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="FeniksPlusKino.ru@SD" tvg-name="Феникс Плюс Кино" tvg-language="Russian" group-title="04. Кино и сериалы",Феникс Плюс Кино
+http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
+#EXTINF:-1 tvg-id="SovetskieFilmy.ru@SD" tvg-name="Советские фильмы" tvg-language="Russian" group-title="04. Кино и сериалы",Советские фильмы
+http://dmi3y-tv.ru/hls/blrus/CH_SOVETSKIEFILMY.m3u8
